@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="activity_main_fragment">@layout/activity_main_fragment_three_col</item>
+</resources>

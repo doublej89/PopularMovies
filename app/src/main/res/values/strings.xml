@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_detail_label">MovieDetail</string>
+    <string name="sort_type">sort type</string>
+    <string name="default_sort_val">popular</string>
+    <string name="Pref_sort_by_top_rated">top_rated</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="content_authority">com.example.memyself.popularmovies.app</string>
+    <string name="sync_account_type">popularmovies.example.com</string>
+    <string name="mark_as_favorite">Mark as favorite</string>
+    <string name="marked_as_favorite">Marked as favorite</string>
+    <string name="trailers">Trailers:</string>
+    <string name="reviews">Reviews:</string>
+
+
+</resources>
