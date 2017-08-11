@@ -26,4 +26,5 @@ and add the line MyMovieDBApiKey = "Your_api_key" to it.
 
 # Installation
 
-Just clone the repo, 
+Just clone the repo, and run it on Android Studio. Make sure the minimum version of Android on your device
+is 4.1x (API level 16).
