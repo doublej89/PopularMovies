@@ -1,6 +1,6 @@
 # PopularMovies
 
-This is stage 2 of the popular movies app for Udacity's Android Developer Nanodegree program.
+This is the final version of the popular movies app for Udacity's Android Developer Nanodegree program.
 
 Launching the app opens a page that displays a grid of the most popular movies' poster images.
 
@@ -18,6 +18,12 @@ user's favorite. Clicking/tapping the button again undoes the movie's favorites 
 the main page (posters grid) according to the favorites option displays the posters of all the
 movies that have been marked as favorite.
 
+# MovieDB API Key
+
 You will need your moviedb api key to allow the app to fetch movie related data from the movie database. 
-Create the file .gradle\gradle.properties in your android projects folder and add the line 
-MyMovieDBApiKey = "Your_api_key" to it.
+Create the file .gradle\gradle.properties in your android projects folder (if one doesn't exist already)
+and add the line MyMovieDBApiKey = "Your_api_key" to it.
+
+# Installation
+
+Just clone the repo, 
