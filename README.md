@@ -24,6 +24,9 @@ You will need your moviedb api key to allow the app to fetch movie related data 
 Create the file .gradle\gradle.properties in your android projects folder (if one doesn't exist already)
 and add the line MyMovieDBApiKey = "Your_api_key" to it.
 
+Get your api key:
+https://developers.themoviedb.org/3/getting-started
+
 # Installation
 
 Just clone the repo, and run it on Android Studio. Make sure the minimum version of Android on your device
